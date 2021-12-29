@@ -1,8 +1,7 @@
 ## Stevia Development Tools
 
-You can use the [editor on GitHub](https://github.com/thevoid09/tool-page/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Buradan tüm ücretsiz programlarımızı indirebilirsiniz. Programlar lisans anahtarı ile korunmaktadır.
+<button onclick="window.location.href='https://bing.com';">deneme</button>
 
 ### Markdown
 
