@@ -1,7 +1,8 @@
 ## Stevia Development Tools
 
-Buradan tüm ücretsiz programlarımızı indirebilirsiniz. Programlar lisans anahtarı ile korunmaktadır.
-<button onclick="window.location.href='https://bing.com';">deneme</button>
+Buradan tüm ücretsiz programlarımızı indirebilirsiniz. Programlar lisans anahtarı ile korunmaktadır. Lisans anahtarları belirtilmiştir.
+<br>
+<button onclick="window.location.href='https://bing.com';">Tüm Programlar</button>
 
 ### Markdown
 
