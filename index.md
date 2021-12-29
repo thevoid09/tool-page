@@ -11,8 +11,6 @@ Python ile geliştirilmiştir. Tamamen ücretsizdir.
 ```markdown
 WM6RWCU2KQ4RPC5ML24TD7G68
 ```
-<br><br>
-
 <button>İndir</button>
 
 
